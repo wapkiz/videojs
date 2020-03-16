@@ -1,16 +1,3 @@
-/*
-  Player Skin Designer for Video.js
-  http://videojs.com
-
-  To customize the player skin edit 
-  the CSS below. Click "details" 
-  below to add comments or questions.
-  This file uses some SCSS. Learn more  
-  at http://sass-lang.com/guide)
-
-  This designer can be linked to at:
-  https://codepen.io/heff/pen/EarCt/left/?editors=010
-*/
 @font-face {
   font-family: nf-icon;
   src: url(https://assets.nflxext.com/ffe/siteui/fonts/nf-icon-v1-86.eot);
